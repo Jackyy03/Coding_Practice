@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 22**
+**Total solved: 23**
 
 ## Codeforces
 
@@ -20,11 +20,11 @@ Solutions by [aritghosh.6201](https://codeforces.com/profile/aritghosh.6201), or
 
 Solutions organized by primary topic folder.
 
-**Solved: 0**
+**Solved: 1**
 
 | Topic | Solved |
 | --- | --- |
-| — | 0 |
+| [hash-table](./leetcode/hash-table) | 1 |
 
 
 ## CSES
@@ -61,5 +61,5 @@ Solutions organized by difficulty level.
 | [Easy](./geeksforgeeks/Easy) | 8 |
 
 
-_Last updated: 2026-11-26_
+_Last updated: 2026-11-27_
 <!-- /cf-sync -->
